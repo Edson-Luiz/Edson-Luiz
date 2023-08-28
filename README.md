@@ -1,5 +1,5 @@
 # Salve!
-- Estudante da Universidade Federal de Ouro Preto
+- Olá sou o Edson e atualmente sou estudante da Universidade Federal de Ouro Preto
 
 <div align="center">
    <img  src='https://github-readme-stats.vercel.app/api?username=Edson-Luiz&theme=dark&show_icons=true&hide_border=true&count_private=true' />
