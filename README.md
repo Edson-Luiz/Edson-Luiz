@@ -1,4 +1,4 @@
-# Koe!
+# Salve!
 - Olá, meu nome é Edson, e atualmente estou cursando minha graduação na Universidade Federal de Ouro Preto.
 
 <div align="center">
