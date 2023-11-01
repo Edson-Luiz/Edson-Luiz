@@ -22,9 +22,8 @@
 #
   </div>
   
- <picture>
   ![snake gif](https://github.com/Edson-Luiz/Edson-Luiz/blob/output/github-contribution-grid-snake.svg)
-</picture>
+
 
   
 
