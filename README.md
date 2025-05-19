@@ -1,5 +1,5 @@
 # Bem vindo!
-- Olá, meu nome é Edson, e atualmente estou cursando minha graduação na Universidade Federal de Ouro Preto.
+- Olá, meu nome é Edson, sou graduado em Sistemas de Informação na Universidade Federal de Ouro Preto.
 
 <div align="center">
    <img  src='https://github-readme-stats.vercel.app/api?username=Edson-Luiz&theme=dark&show_icons=true&hide_border=true&count_private=true' />
